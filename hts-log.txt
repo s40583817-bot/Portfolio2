@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 26 Feb 2026 00:15:13 at http://hcoder.smartinnovates.net/i/personala/dark.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://hcoder.smartinnovates.net/i/personala/dark.html -O1 "C:\My Web Sites\Portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:17:37	Error: 	"Not Found" (404) at link hcoder.smartinnovates.net/i/personala/fonts/et-line.svg (from hcoder.smartinnovates.net/i/personala/css/plugins/et-line.css)
+00:17:37	Error: 	"Not Found" (404) at link hcoder.smartinnovates.net/i/personala/fonts/fa-brands-400.svg (from hcoder.smartinnovates.net/i/personala/css/plugins/fontawesome-all.min.css)
+00:17:37	Error: 	"Not Found" (404) at link hcoder.smartinnovates.net/i/personala/fonts/fa-regular-400.svg (from hcoder.smartinnovates.net/i/personala/css/plugins/fontawesome-all.min.css)
+00:17:50	Error: 	"Not Found" (404) at link hcoder.smartinnovates.net/i/personala/fonts/fa-solid-900.svg (from hcoder.smartinnovates.net/i/personala/css/plugins/fontawesome-all.min.css)
+00:17:50	Error: 	"Not Found" (404) at link hcoder.smartinnovates.net/i/personala/css/plugins/owl.video.play.png (from hcoder.smartinnovates.net/i/personala/css/plugins/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 37 seconds : 64 links scanned, 58 files written (3092331 bytes overall) [2458891 bytes received at 15661 bytes/sec], 1122189 bytes transferred using HTTP compression in 40 files, ratio 41%, 3.7 requests per connection
+(5 errors, 0 warnings, 0 messages)
